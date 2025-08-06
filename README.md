@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi :)
 
 <!--
 **TifeAwoyemi/TifeAwoyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Banner -->
 
-![Boluwatife Awoyemi Banner](https://via.placeholder.com/1200x250.png?text=Boluwatife+Awoyemi+%7C+Computational+%26+Mathematical+Biology)
+![Boluwatife Awoyemi Banner]
 
 ## 👋 Hi, I’m Boluwatife Awoyemi
 
@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 ---
 -->
 ## 📊 GitHub Stats
-![Boluwatife's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Boluwatife's GitHub stats](https://github-readme-stats.vercel.app/api?username=TifeAwoyemi&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TifeAwoyemi&layout=compact&theme=tokyonight)
 
 ---
 
@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 ---
 
 📫 **Let’s connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/boluwatife-awoyemi/])  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)]([https://scholar.google.com/citations?user=Z8eaYhcAAAAJ&hl=en])  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boluwatife-awoyemi/)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Z8eaYhcAAAAJ&hl=en)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ellybolu@gmail.com)  
