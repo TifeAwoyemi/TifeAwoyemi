@@ -1,6 +1,5 @@
-## Hi :)
-
 <!--
+## Hi :)
 **TifeAwoyemi/TifeAwoyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,11 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<!-- Banner -->
-
 ![Boluwatife Awoyemi Banner]
+-->
 
+<!-- Banner -->
 ## 👋 Hi, I’m Boluwatife Awoyemi
 
 🎓 **PhD Candidate in Mathematics** at Texas Tech University  
@@ -33,6 +31,10 @@ Here are some ideas to get you started:
 - 📚 Interested in mathematical modeling including hybrid models, disease dynamics, and ecological systems
 
 ---
+
+## 🌱 I’m currently learning
+- Bayesian Modeling
+- Website development
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
