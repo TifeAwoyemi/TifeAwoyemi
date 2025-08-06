@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 ---
 
 ## 🌱 Fun Facts 
-- Have researched mosquito competition, cancer drug resistance, and macroinvertebrate colonization  
-- I love exploring bridges (yes, I mean the structures).
+- I have researched systems with seasonal pulses using hybrid, mosquito competition with lab experience, cancer drug resistance, and macroinvertebrate colonization  
+- I love exploring bridges (yes, I mean the structures)
 
 ---
 
