@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-000000?logo=linux&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F4BBFF?logo=sql&logoColor=white)
 
 ---
 <!--
@@ -57,7 +58,7 @@ Here are some ideas to get you started:
 ---
 -->
 ## 📊 GitHub Stats
-![Boluwatife's GitHub stats](https://github-readme-stats.vercel.app/api?username=TifeAwoyemi&show_icons=true&theme=tokyonight)  
+![Boluwatife's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TifeAwoyemi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TifeAwoyemi&layout=compact&theme=tokyonight)
 
 ---
