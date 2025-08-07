@@ -57,13 +57,12 @@ Here are some ideas to get you started:
 - **Hybrid Consumer-Resource Models** – Applications in aquatic, terrestrial, and oncology
 
 ---
--->
 ## 📊 GitHub Stats
 ![Boluwatife's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TifeAwoyemi&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TifeAwoyemi&layout=compact&theme=tokyonight)
 
 ---
-
+-->
 ## 🌱 Fun Facts 
 - I have researched systems with seasonal pulses using hybrid models, mosquito competition with lab experience, cancer drug resistance, and macroinvertebrate colonization  
 - I love exploring bridges (yes, I mean the structures)
