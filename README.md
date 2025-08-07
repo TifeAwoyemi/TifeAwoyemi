@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 🧮 Developing **adaptive numerical methods** for complex systems  
 - 🖥 Skilled in **Python**, **MATLAB**, and **R** for modeling, simulation, and data analysis  
 - 🌍 Bridging **mathematics**, **biology**, and **real-world challenges**  
-- 📚 Interested in mathematical modeling including hybrid models, disease dynamics, and ecological systems
+- 📚 Research work spans mathematical modeling using techniques like hybrid models to study health dynamics and ecological systems
 
 ---
 
@@ -40,10 +40,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF9900?logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-000000?logo=linux&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F4BBFF?logo=sql&logoColor=white)
@@ -51,9 +47,14 @@ Here are some ideas to get you started:
 ---
 <!--
 ## 📌 Featured Projects
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
 - **Bayesian Digital Twin for Cancer Patients** – Personalized modeling for treatment response  
 - **Streamlit Portfolio Website** – Interactive hub for research & computational projects  
-- **Hybrid Consumer-Resource Models** – Applications in aquatic, terrestrial, and epidemiology
+- **Hybrid Consumer-Resource Models** – Applications in aquatic, terrestrial, and oncology
 
 ---
 -->
@@ -64,7 +65,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🌱 Fun Facts 
-- I have researched systems with seasonal pulses using hybrid, mosquito competition with lab experience, cancer drug resistance, and macroinvertebrate colonization  
+- I have researched systems with seasonal pulses using hybrid models, mosquito competition with lab experience, cancer drug resistance, and macroinvertebrate colonization  
 - I love exploring bridges (yes, I mean the structures)
 
 ---
