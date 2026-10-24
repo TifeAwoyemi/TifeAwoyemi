@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!-- Banner -->
 ## 👋 Hi, I’m Boluwatife Awoyemi
 
-🎓 **PhD Candidate in Mathematics** at Texas Tech University  
+🎓 **PhD, Mathematics (May 2026)** from Texas Tech University  
 🔬 Specializing in **Computational & Mathematical Biology**  
-📍 Passionate about applying math & data science to **public health, ecology, and medical technology**
+📍 Passionate about applying math & data science to **public health, drug development, ecology, and medical technology**
 
 ---
 
